@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @M0mchill
+## Hi there I'm Momchil
+
+
 - 👀 I’m interested in javascript
 - 🌱 I’m currently learning at Telerik
 - 💞️ I’m looking to collaborate on ... 👍
 - 📫 How to reach me via my email
+
 
 <!---
 M0mchill/M0mchill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
